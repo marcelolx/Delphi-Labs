@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/30 23:39:48.000.691,=C:\Users\marce\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/30 23:40:43.000.115,C:\Users\marce\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Unit1.pas</Transaction>
+    <Transaction>2018/03/30 23:40:43.000.115,C:\Users\marce\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Unit1.dfm</Transaction>
+    <Transaction>2018/03/30 23:40:50.000.416,C:\Users\marce\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\DACFire.dproj</Transaction>
+    <Transaction>2018/03/31 00:21:42.000.423,=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\HConexao.pas</Transaction>
+    <Transaction>2018/03/31 15:35:12.000.866,=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Sistema\Rgn.Sistema.Permissoes.pas</Transaction>
+    <Transaction>2018/03/31 15:35:12.000.816,=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Sistema\DAO.Sistema.Permissoes.pas</Transaction>
+    <Transaction>2018/03/31 15:35:12.000.849,=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Sistema\I.Rgn.Sistema.Permissoes.pas</Transaction>
+    <Transaction>2018/03/31 15:35:12.000.832,=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Sistema\I.DAO.Sistema.Permissoes.pas</Transaction>
+    <Transaction>2018/03/31 15:35:40.000.967,=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\DAO.Abstract.pas</Transaction>
+    <Transaction>2018/03/31 15:50:56.000.293,=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Unit2.pas</Transaction>
+    <Transaction>2018/03/31 15:51:24.000.342,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Unit2.pas=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\testev.pas</Transaction>
+    <Transaction>2018/03/31 15:51:24.000.342,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Unit2.dfm=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\testev.dfm</Transaction>
+    <Transaction>2018/03/31 15:51:43.000.724,=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Unit2.pas</Transaction>
+    <Transaction>2018/03/31 15:52:15.000.939,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Unit2.pas=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\teste.pas</Transaction>
+    <Transaction>2018/03/31 15:54:48.000.581,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Unit1.dfm=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Main.dfm</Transaction>
+    <Transaction>2018/03/31 15:54:48.000.581,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Unit1.pas=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Main.pas</Transaction>
+    <Transaction>2018/03/31 19:27:31.000.493,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\HConexao.pas=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\FD.Connection.pas</Transaction>
+    <Transaction>2018/03/31 19:30:35.000.064,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\FD.Connection.pas=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Helper.Conexao.pas</Transaction>
+    <Transaction>2018/04/05 00:08:20.000.995,=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Unit1.pas</Transaction>
+    <Transaction>2018/04/05 00:09:36.000.193,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Unit1.dfm=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Grids\frmPessoav.dfm</Transaction>
+    <Transaction>2018/04/05 00:09:36.000.193,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Unit1.pas=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Grids\frmPessoav.pas</Transaction>
+    <Transaction>2018/04/05 00:09:44.000.175,=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Unit1.pas</Transaction>
+    <Transaction>2018/04/05 00:10:07.000.786,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Unit1.pas=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Grids\Pessoa.pas</Transaction>
+    <Transaction>2018/06/05 21:01:24.000.818,=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\ViewTestObjectDataset.pas</Transaction>
+    <Transaction>2018/06/05 21:04:47.000.573,=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Unit1.pas</Transaction>
+    <Transaction>2018/06/05 21:07:50.000.535,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Unit1.pas=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\DACFire\Customer.pas</Transaction>
+    <Transaction>2018/06/06 02:35:05.533,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\DBGridWithObjectList\DBGridWithObjectList.dproj=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\DBGridWithObjectList\DACFire.dproj</Transaction>
+    <Transaction>2018/06/06 02:35:13.696,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\DBGridWithObjectList\Sistema\DAO.Sistema.Permissoes.pas=</Transaction>
+    <Transaction>2018/06/06 02:35:13.704,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\DBGridWithObjectList\Sistema\I.DAO.Sistema.Permissoes.pas=</Transaction>
+    <Transaction>2018/06/06 02:35:13.708,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\DBGridWithObjectList\Sistema\I.Rgn.Sistema.Permissoes.pas=</Transaction>
+    <Transaction>2018/06/06 02:35:13.711,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\DBGridWithObjectList\Sistema\Rgn.Sistema.Permissoes.pas=</Transaction>
+    <Transaction>2018/06/06 02:35:20.642,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\DBGridWithObjectList\Grids\frmPessoav.pas=</Transaction>
+    <Transaction>2018/06/06 02:35:20.647,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\DBGridWithObjectList\Grids\Pessoa.pas=</Transaction>
+    <Transaction>2018/06/06 02:35:37.641,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\DBGridWithObjectList\teste.pas=</Transaction>
+    <Transaction>2018/06/06 02:35:37.654,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\DBGridWithObjectList\testev.pas=</Transaction>
+    <Transaction>2018/06/06 02:35:52.072,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\DBGridWithObjectList\DAO.Abstract.pas=</Transaction>
+    <Transaction>2018/06/06 02:35:52.075,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\DBGridWithObjectList\Helper.Conexao.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
