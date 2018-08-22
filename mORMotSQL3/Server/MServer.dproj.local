@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/07/30 04:08:48.000.223,=C:\Users\marce\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/21 20:39:20.000.228,=C:\Users\marce\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/21 20:41:43.000.216,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\mORMotSQL3\Server\Server.pas=C:\Users\marce\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/21 20:41:43.000.216,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\mORMotSQL3\Server\Server.dfm=C:\Users\marce\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/08/21 20:42:09.000.652,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\mORMotSQL3\Server\MServer.dproj=C:\Users\marce\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/08/21 20:49:05.000.332,=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\mORMotSQL3\Server\Unit1.pas</Transaction>
+    <Transaction>2018/08/21 20:51:30.000.904,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\mORMotSQL3\Server\Pessoa.pas=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\mORMotSQL3\Server\Unit1.pas</Transaction>
+    <Transaction>2018/08/21 20:57:51.000.846,=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\mORMotSQL3\Server\Unit1.pas</Transaction>
+    <Transaction>2018/08/21 20:59:09.000.925,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\mORMotSQL3\Server\Modelo.pas=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\mORMotSQL3\Server\Unit1.pas</Transaction>
+    <Transaction>2018/08/21 20:59:25.000.431,=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\mORMotSQL3\Server\Unit1.pas</Transaction>
+    <Transaction>2018/08/21 21:00:17.000.803,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\mORMotSQL3\Server\ModeloImpl.pas=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\mORMotSQL3\Server\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

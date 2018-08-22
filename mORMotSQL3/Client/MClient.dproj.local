@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/07/30 04:08:48.000.223,=C:\Users\marce\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/21 21:30:50.000.157,=C:\Users\marce\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/21 21:31:34.000.250,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\mORMotSQL3\Client\Main.dfm=C:\Users\marce\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/08/21 21:31:34.000.250,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\mORMotSQL3\Client\Main.pas=C:\Users\marce\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/22 01:11:05.000.680,C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\mORMotSQL3\Client\MClient.dproj=C:\Users\marce\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/08/22 01:13:08.000.871,=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\mORMotSQL3\Server\Pessoa.pas</Transaction>
+    <Transaction>2018/08/22 01:16:20.000.228,=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\mORMotSQL3\Server\ModeloImpl.pas</Transaction>
+    <Transaction>2018/08/22 01:16:20.000.210,=C:\Users\marce\Documents\Embarcadero\Studio\Desenvolvimento\Delphi-Labs\mORMotSQL3\Server\Modelo.pas</Transaction>
+  </Transactions>
+</BorlandProject>
