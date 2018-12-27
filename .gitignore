@@ -2,3 +2,8 @@
 */Win32/*
 mORMotSQL3/Client/Win32/*
 mORMotSQL3/Server/Win32/*
+NotificationService/Sample/Win32
+*.stat
+*.local
+*.identcache
+*.res
