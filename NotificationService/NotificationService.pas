@@ -6,10 +6,11 @@ uses
   Generics.Collections;
 
 type
-  TNotifyKeyValueEvent = procedure(const AKey: Variant; var AValue: TObject) of object;
+  TNotifyKeyValueEvent = procedure(const AKey: Variant; var AValue: TObject)
+    of object;
 
   INotificationService = interface
-  ['{6D22D05D-8426-42E5-ABC5-49A7C7133846}']
+    ['{6D22D05D-8426-42E5-ABC5-49A7C7133846}']
     procedure SendMessage(const AKey: Variant; var AValue: TObject; const AMessageID: TGUID);
     procedure Subscribe(const AEvent: TNotifyKeyValueEvent; const AMessageID: TGUID);
     procedure UnSubscribe(const AEvent: TNotifyKeyValueEvent);
@@ -40,7 +41,6 @@ uses
 var
   fInstance: TNotificationService;
 
-
 function GetNotificationService: INotificationService;
 begin
   if fInstance = nil then
@@ -49,22 +49,16 @@ begin
   Result := fInstance;
 end;
 
-
-
 constructor TNotificationService.Create;
 begin
   fDicionarioInscritos := TDictionary<TNotifyKeyValueEvent, TGUID>.Create;
 end;
-
-
 
 destructor TNotificationService.Destroy;
 begin
   fDicionarioInscritos.Free;
   inherited;
 end;
-
-
 
 function TNotificationService.QueryInterface(const IID: TGUID; out Obj): HResult;
 begin
@@ -73,8 +67,6 @@ begin
   else
     Result := E_NOINTERFACE;
 end;
-
-
 
 procedure TNotificationService.SendMessage(const AKey: Variant; var AValue: TObject; const AMessageID: TGUID);
 var
@@ -87,28 +79,20 @@ begin
   end;
 end;
 
-
-
 procedure TNotificationService.Subscribe(const AEvent: TNotifyKeyValueEvent; const AMessageID: TGUID);
 begin
   fDicionarioInscritos.AddOrSetValue(AEvent, AMessageID);
 end;
-
-
 
 procedure TNotificationService.UnSubscribe(const AEvent: TNotifyKeyValueEvent);
 begin
   fDicionarioInscritos.Remove(AEvent);
 end;
 
-
-
 function TNotificationService._AddRef: Integer;
 begin
   Result := 0;
 end;
-
-
 
 function TNotificationService._Release: Integer;
 begin

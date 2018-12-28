@@ -39,8 +39,7 @@ end;
 
 function TDocumento.GetCliente: TCliente;
 begin
-  GetNotificationService.SendMessage(fCodigoCliente, TObject(Result),
-    fGetClienteCacherID);
+  GetNotificationService.SendMessage(fCodigoCliente, TObject(Result), fGetClienteCacherID);
 end;
 
 procedure TDocumento.SetCliente(const ACliente: TCliente);

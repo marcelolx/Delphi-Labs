@@ -67,9 +67,14 @@ begin
       fDocumento.Cliente := fCliente;
       fDocumentos.Add(fDocumento);
     end;
+
+
+    Assert((fDocumentos[0].Cliente.Codigo = fDocumentos[Pred(fDocumentos.Count)].Cliente.Codigo), 'Código incorreto!');
+
   finally
     fCliente.Free;
     fDocumentos.Free;
+    fCacheClientes.Clear;
   end;
 end;
 
